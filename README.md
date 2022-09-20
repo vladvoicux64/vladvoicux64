@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web scraping and just building general apps
 - 💞️ I’m looking to collaborate on projects which offer a nice learning community
 - 📫 How to reach me: ig: voicu005 or discord: vojka#4121
+- ❤️ Favourite fonts are Courier New, Monaco and Lucida Console
 
 <!---
 vladvoicux64/vladvoicux64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
